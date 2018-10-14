@@ -1,4 +1,4 @@
-# bloodhound-search
+# Bloodhound-Search
 
 Bloodhound-Search is a handy grep-like search utility
 
